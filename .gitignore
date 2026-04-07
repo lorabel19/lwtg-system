@@ -1,0 +1,29 @@
+# Environment file (IMPORTANT)
+.env
+
+# Database (NOT USED since MySQL ka)
+db.sqlite3
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment (optional but recommended)
+venv/
+env/
+
+# Media uploads (optional, depende sa setup mo)
+media/
+
+# Django logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
